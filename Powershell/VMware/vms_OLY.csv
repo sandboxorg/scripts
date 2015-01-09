@@ -1,0 +1,5 @@
+﻿basevm,datastore,resourcepool,vmname,vlan
+Template-2008-R2-Std-64bit,OLY_Prod_Cluster_01,OLY_Internal_Prod,TAPP000566,Prod-Test-Vlan-1213
+Template-2008-R2-Std-64bit,OLY_Prod_Cluster_01,OLY_Internal_Prod,TAPP000567,Prod-Test-Vlan-1213
+Template-2008-R2-Std-64bit,OLY_Prod_Cluster_01,OLY_Internal_Prod,TAPP000568,Prod-Test-Vlan-1213
+Template-2008-R2-Std-64bit,OLY_Prod_Cluster_01,OLY_Internal_Prod,TAPP000569,Prod-Test-Vlan-1213
